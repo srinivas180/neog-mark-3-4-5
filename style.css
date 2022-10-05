@@ -102,6 +102,11 @@ hr {
   text-align: center;
 }
 
+.project-item h2 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
 .ow {
   background-color: var(--light-gray);
 }
